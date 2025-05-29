@@ -2,7 +2,7 @@ def generator():
     for i in range(101111):
         yield i
 
-#changes commit!!!~
+#changes commit!
 
 #remote generator changes!!!~
 
